@@ -40,6 +40,75 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 290 Contributions in the Year 2021
+ > 
+> 📦 213.0 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 7 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.37% 
+🌆 Daytime    64 commits     █████░░░░░░░░░░░░░░░░░░░░   21.4% 
+🌃 Evening    73 commits     ██████░░░░░░░░░░░░░░░░░░░   24.41% 
+🌙 Night      125 commits    ██████████░░░░░░░░░░░░░░░   41.81%
+
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.71% 
+Tuesday      47 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
+Wednesday    52 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+Thursday     46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+Friday       71 commits     ██████░░░░░░░░░░░░░░░░░░░   23.75% 
+Saturday     47 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.72% 
+Sunday       1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Bogota
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               10 repos            ████████████░░░░░░░░░░░░░   47.62% 
+TypeScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
+C#                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+
+```
+
+
+
+ Last Updated on 29/10/2021
 <!--END_SECTION:waka-->
 
 <p align="center">
