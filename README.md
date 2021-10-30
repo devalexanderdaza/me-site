@@ -16,11 +16,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/devalexanderdaza/puppeteer-extends/pull/6) in [devalexanderdaza/puppeteer-extends](https://github.com/devalexanderdaza/puppeteer-extends)
-2. 💪 Opened PR [#6](https://github.com/devalexanderdaza/puppeteer-extends/pull/6) in [devalexanderdaza/puppeteer-extends](https://github.com/devalexanderdaza/puppeteer-extends)
-3. 🎉 Merged PR [#5](https://github.com/devalexanderdaza/puppeteer-extends/pull/5) in [devalexanderdaza/puppeteer-extends](https://github.com/devalexanderdaza/puppeteer-extends)
-4. 💪 Opened PR [#5](https://github.com/devalexanderdaza/puppeteer-extends/pull/5) in [devalexanderdaza/puppeteer-extends](https://github.com/devalexanderdaza/puppeteer-extends)
-5. 🎉 Merged PR [#4](https://github.com/devalexanderdaza/puppeteer-extends/pull/4) in [devalexanderdaza/puppeteer-extends](https://github.com/devalexanderdaza/puppeteer-extends)
+1. 🎉 Merged PR [#8](https://github.com/devalexanderdaza/puppeteer-extends/pull/8) in [devalexanderdaza/puppeteer-extends](https://github.com/devalexanderdaza/puppeteer-extends)
+2. 💪 Opened PR [#8](https://github.com/devalexanderdaza/puppeteer-extends/pull/8) in [devalexanderdaza/puppeteer-extends](https://github.com/devalexanderdaza/puppeteer-extends)
+3. 🎉 Merged PR [#7](https://github.com/devalexanderdaza/puppeteer-extends/pull/7) in [devalexanderdaza/puppeteer-extends](https://github.com/devalexanderdaza/puppeteer-extends)
+4. 💪 Opened PR [#7](https://github.com/devalexanderdaza/puppeteer-extends/pull/7) in [devalexanderdaza/puppeteer-extends](https://github.com/devalexanderdaza/puppeteer-extends)
+5. 🎉 Merged PR [#6](https://github.com/devalexanderdaza/puppeteer-extends/pull/6) in [devalexanderdaza/puppeteer-extends](https://github.com/devalexanderdaza/puppeteer-extends)
 <!--END_SECTION:activity-->
 
 ---
