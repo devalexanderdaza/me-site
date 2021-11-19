@@ -16,11 +16,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/devalexanderdaza/socketpress/pull/1) in [devalexanderdaza/socketpress](https://github.com/devalexanderdaza/socketpress)
-2. 💪 Opened PR [#1](https://github.com/devalexanderdaza/socketpress/pull/1) in [devalexanderdaza/socketpress](https://github.com/devalexanderdaza/socketpress)
-3. 🎉 Merged PR [#1](https://github.com/devalexanderdaza/socketpress.io/pull/1) in [devalexanderdaza/socketpress.io](https://github.com/devalexanderdaza/socketpress.io)
-4. 💪 Opened PR [#1](https://github.com/devalexanderdaza/socketpress.io/pull/1) in [devalexanderdaza/socketpress.io](https://github.com/devalexanderdaza/socketpress.io)
-5. 🎉 Merged PR [#2](https://github.com/developerplace/nodejs-realtime-rest-api/pull/2) in [developerplace/nodejs-realtime-rest-api](https://github.com/developerplace/nodejs-realtime-rest-api)
+1. 💪 Opened PR [#1](https://github.com/devalexanderdaza/perfex-nodejs-api-client-module/pull/1) in [devalexanderdaza/perfex-nodejs-api-client-module](https://github.com/devalexanderdaza/perfex-nodejs-api-client-module)
+2. 🎉 Merged PR [#6](https://github.com/Validation-Solutions/perfex-module-template/pull/6) in [Validation-Solutions/perfex-module-template](https://github.com/Validation-Solutions/perfex-module-template)
+3. 🎉 Merged PR [#8](https://github.com/Validation-Solutions/perfex-module-template/pull/8) in [Validation-Solutions/perfex-module-template](https://github.com/Validation-Solutions/perfex-module-template)
+4. 🎉 Merged PR [#5](https://github.com/Validation-Solutions/perfex-module-template/pull/5) in [Validation-Solutions/perfex-module-template](https://github.com/Validation-Solutions/perfex-module-template)
+5. 🎉 Merged PR [#2](https://github.com/Validation-Solutions/perfex-module-template/pull/2) in [Validation-Solutions/perfex-module-template](https://github.com/Validation-Solutions/perfex-module-template)
 <!--END_SECTION:activity-->
 
 ---
