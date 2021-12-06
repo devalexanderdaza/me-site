@@ -46,7 +46,7 @@ GitHub profile. Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,952 Contributions in the Year 2021
+> 🏆 1,950 Contributions in the Year 2021
  > 
 > 📦 224.3 kB Used in GitHub's Storage 
  > 
@@ -68,8 +68,8 @@ GitHub profile. Here are some ideas to get you started:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.95% 
-Tuesday      127 commits    ██████░░░░░░░░░░░░░░░░░░░   25.25% 
+Monday       41 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.15% 
+Tuesday      126 commits    ██████░░░░░░░░░░░░░░░░░░░   25.05% 
 Wednesday    84 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.7% 
 Thursday     78 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.51% 
 Friday       76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.11% 
