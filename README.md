@@ -38,13 +38,15 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%207%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,943 Contributions in the Year 2021
+> 🏆 1,948 Contributions in the Year 2021
  > 
 > 📦 224.3 kB Used in GitHub's Storage 
  > 
@@ -59,8 +61,8 @@ GitHub profile. Here are some ideas to get you started:
 ```text
 🌞 Morning    105 commits    █████░░░░░░░░░░░░░░░░░░░░   20.87% 
 🌆 Daytime    94 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.69% 
-🌃 Evening    141 commits    ███████░░░░░░░░░░░░░░░░░░   28.03% 
-🌙 Night      163 commits    ████████░░░░░░░░░░░░░░░░░   32.41%
+🌃 Evening    140 commits    ███████░░░░░░░░░░░░░░░░░░   27.83% 
+🌙 Night      164 commits    ████████░░░░░░░░░░░░░░░░░   32.6%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
