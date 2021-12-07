@@ -16,11 +16,11 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#18](https://github.com/Validation-Solutions/perfex-module-template/pull/18) in [Validation-Solutions/perfex-module-template](https://github.com/Validation-Solutions/perfex-module-template)
-2. 💪 Opened PR [#18](https://github.com/Validation-Solutions/perfex-module-template/pull/18) in [Validation-Solutions/perfex-module-template](https://github.com/Validation-Solutions/perfex-module-template)
-3. 🎉 Merged PR [#8](https://github.com/Validation-Solutions/perfex-module-template/pull/8) in [Validation-Solutions/perfex-module-template](https://github.com/Validation-Solutions/perfex-module-template)
-4. 🎉 Merged PR [#5](https://github.com/Validation-Solutions/perfex-module-template/pull/5) in [Validation-Solutions/perfex-module-template](https://github.com/Validation-Solutions/perfex-module-template)
-5. 🎉 Merged PR [#2](https://github.com/Validation-Solutions/perfex-module-template/pull/2) in [Validation-Solutions/perfex-module-template](https://github.com/Validation-Solutions/perfex-module-template)
+1. 🎉 Merged PR [#4](https://github.com/developerplace/nodejs-express-safe-boilerplate/pull/4) in [developerplace/nodejs-express-safe-boilerplate](https://github.com/developerplace/nodejs-express-safe-boilerplate)
+2. 💪 Opened PR [#4](https://github.com/developerplace/nodejs-express-safe-boilerplate/pull/4) in [developerplace/nodejs-express-safe-boilerplate](https://github.com/developerplace/nodejs-express-safe-boilerplate)
+3. 🎉 Merged PR [#3](https://github.com/developerplace/nodejs-express-safe-boilerplate/pull/3) in [developerplace/nodejs-express-safe-boilerplate](https://github.com/developerplace/nodejs-express-safe-boilerplate)
+4. 💪 Opened PR [#3](https://github.com/developerplace/nodejs-express-safe-boilerplate/pull/3) in [developerplace/nodejs-express-safe-boilerplate](https://github.com/developerplace/nodejs-express-safe-boilerplate)
+5. 🎉 Merged PR [#2](https://github.com/developerplace/nodejs-express-safe-boilerplate/pull/2) in [developerplace/nodejs-express-safe-boilerplate](https://github.com/developerplace/nodejs-express-safe-boilerplate)
 <!--END_SECTION:activity-->
 
 ---
