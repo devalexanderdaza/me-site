@@ -38,15 +38,13 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%201%20min-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,051 Contributions in the Year 2021
+> 🏆 2,054 Contributions in the Year 2021
  > 
 > 📦 225.2 kB Used in GitHub's Storage 
  > 
@@ -69,12 +67,12 @@ GitHub profile. Here are some ideas to get you started:
 
 ```text
 Monday       89 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.45% 
-Tuesday      127 commits    ██████░░░░░░░░░░░░░░░░░░░   24.9% 
+Tuesday      128 commits    ██████░░░░░░░░░░░░░░░░░░░   25.1% 
 Wednesday    67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.14% 
 Thursday     78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
 Friday       76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.9% 
 Saturday     61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.96% 
-Sunday       12 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.35%
+Sunday       11 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.16%
 
 ```
 
