@@ -38,8 +38,6 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2017%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
@@ -69,12 +67,12 @@ GitHub profile. Here are some ideas to get you started:
 
 ```text
 Monday       88 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.7% 
-Tuesday      134 commits    ██████░░░░░░░░░░░░░░░░░░░   25.43% 
+Tuesday      135 commits    ██████░░░░░░░░░░░░░░░░░░░   25.62% 
 Wednesday    67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
 Thursday     82 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.56% 
 Friday       76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
 Saturday     65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.33% 
-Sunday       15 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85%
+Sunday       14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.66%
 
 ```
 
