@@ -71,9 +71,9 @@ GitHub profile. Here are some ideas to get you started:
 Monday       42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.79% 
 Tuesday      89 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.51% 
 Wednesday    70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
-Thursday     106 commits    █████░░░░░░░░░░░░░░░░░░░░   19.67% 
+Thursday     105 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.48% 
 Friday       124 commits    █████░░░░░░░░░░░░░░░░░░░░   23.01% 
-Saturday     96 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.81% 
+Saturday     97 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.0% 
 Sunday       12 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23%
 
 ```
