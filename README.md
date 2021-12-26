@@ -16,7 +16,7 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/developerplace/nodejs-express-safe-boilerplate/pull/4) in [developerplace/nodejs-express-safe-boilerplate](https://github.com/developerplace/nodejs-express-safe-boilerplate)
+1. 🎉 Merged PR [#8](https://github.com/devalexanderdaza/svelte-view-engine/pull/8) in [devalexanderdaza/svelte-view-engine](https://github.com/devalexanderdaza/svelte-view-engine)
 2. 💪 Opened PR [#4](https://github.com/developerplace/nodejs-express-safe-boilerplate/pull/4) in [developerplace/nodejs-express-safe-boilerplate](https://github.com/developerplace/nodejs-express-safe-boilerplate)
 3. 🎉 Merged PR [#3](https://github.com/developerplace/nodejs-express-safe-boilerplate/pull/3) in [developerplace/nodejs-express-safe-boilerplate](https://github.com/developerplace/nodejs-express-safe-boilerplate)
 4. 💪 Opened PR [#3](https://github.com/developerplace/nodejs-express-safe-boilerplate/pull/3) in [developerplace/nodejs-express-safe-boilerplate](https://github.com/developerplace/nodejs-express-safe-boilerplate)
