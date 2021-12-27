@@ -38,7 +38,7 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-122%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -46,9 +46,9 @@ GitHub profile. Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 3,004 Contributions in the Year 2021
+> 🏆 3,016 Contributions in the Year 2021
  > 
-> 📦 226.9 kB Used in GitHub's Storage 
+> 📦 227.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -59,21 +59,21 @@ GitHub profile. Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    119 commits    █████░░░░░░░░░░░░░░░░░░░░   21.92% 
+🌞 Morning    118 commits    █████░░░░░░░░░░░░░░░░░░░░   21.73% 
 🌆 Daytime    114 commits    █████░░░░░░░░░░░░░░░░░░░░   20.99% 
-🌃 Evening    145 commits    ██████░░░░░░░░░░░░░░░░░░░   26.7% 
+🌃 Evening    146 commits    ██████░░░░░░░░░░░░░░░░░░░   26.89% 
 🌙 Night      165 commits    ███████░░░░░░░░░░░░░░░░░░   30.39%
 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
+Monday       68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.52% 
 Tuesday      89 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
 Wednesday    70 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.89% 
 Thursday     84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.47% 
 Friday       76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.0% 
-Saturday     103 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.97% 
+Saturday     102 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.78% 
 Sunday       54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.94%
 
 ```
