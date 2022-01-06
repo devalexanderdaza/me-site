@@ -69,9 +69,9 @@ GitHub profile. Here are some ideas to get you started:
 
 ```text
 Monday       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.09% 
-Tuesday      113 commits    █████░░░░░░░░░░░░░░░░░░░░   20.77% 
+Tuesday      112 commits    █████░░░░░░░░░░░░░░░░░░░░   20.59% 
 Wednesday    118 commits    █████░░░░░░░░░░░░░░░░░░░░   21.69% 
-Thursday     113 commits    █████░░░░░░░░░░░░░░░░░░░░   20.77% 
+Thursday     114 commits    █████░░░░░░░░░░░░░░░░░░░░   20.96% 
 Friday       76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.97% 
 Saturday     68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
 Sunday       12 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.21%
@@ -98,11 +98,11 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               17 repos            ████████████░░░░░░░░░░░░░   48.57% 
-TypeScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   28.57% 
-C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
-PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
-Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86%
+JavaScript               18 repos            ████████████░░░░░░░░░░░░░   50.0% 
+TypeScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78% 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+PHP                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+Python                   1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.78%
 
 ```
 
