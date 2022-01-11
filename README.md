@@ -69,12 +69,12 @@ GitHub profile. Here are some ideas to get you started:
 
 ```text
 Monday       92 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.2% 
-Tuesday      115 commits    █████░░░░░░░░░░░░░░░░░░░░   21.5% 
+Tuesday      116 commits    █████░░░░░░░░░░░░░░░░░░░░   21.68% 
 Wednesday    67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.52% 
 Thursday     85 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.89% 
 Friday       86 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
 Saturday     66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
-Sunday       24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.49%
+Sunday       23 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.3%
 
 ```
 
