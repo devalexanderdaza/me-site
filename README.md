@@ -38,8 +38,6 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2045%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
@@ -68,12 +66,12 @@ GitHub profile. Here are some ideas to get you started:
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       91 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.37% 
+Monday       92 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.55% 
 Tuesday      83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.93% 
 Wednesday    81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.57% 
 Thursday     85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
 Friday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.47% 
-Saturday     76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.67% 
+Saturday     75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.49% 
 Sunday       54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.71%
 
 ```
