@@ -38,17 +38,15 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs%2033%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,122 Contributions in the Year 2022
+> 🏆 1,126 Contributions in the Year 2022
  > 
-> 📦 199.8 kB Used in GitHub's Storage 
+> 📦 199.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -61,17 +59,17 @@ GitHub profile. Here are some ideas to get you started:
 ```text
 🌞 Morning    124 commits    █████░░░░░░░░░░░░░░░░░░░░   22.22% 
 🌆 Daytime    112 commits    █████░░░░░░░░░░░░░░░░░░░░   20.07% 
-🌃 Evening    146 commits    ██████░░░░░░░░░░░░░░░░░░░   26.16% 
-🌙 Night      176 commits    ████████░░░░░░░░░░░░░░░░░   31.54%
+🌃 Evening    147 commits    ██████░░░░░░░░░░░░░░░░░░░   26.34% 
+🌙 Night      175 commits    ███████░░░░░░░░░░░░░░░░░░   31.36%
 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       64 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.47% 
+Monday       63 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.29% 
 Tuesday      105 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.82% 
 Wednesday    108 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
-Thursday     116 commits    █████░░░░░░░░░░░░░░░░░░░░   20.79% 
+Thursday     117 commits    █████░░░░░░░░░░░░░░░░░░░░   20.97% 
 Friday       88 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.77% 
 Saturday     71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.72% 
 Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
@@ -116,7 +114,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/01/2022 04:45:00 UTC
+ Last Updated on 28/01/2022 05:08:33 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
