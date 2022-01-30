@@ -38,15 +38,13 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2028%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,177 Contributions in the Year 2022
+> 🏆 1,179 Contributions in the Year 2022
  > 
 > 📦 199.4 kB Used in GitHub's Storage 
  > 
@@ -59,9 +57,9 @@ GitHub profile. Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    121 commits    █████░░░░░░░░░░░░░░░░░░░░   21.68% 
+🌞 Morning    120 commits    █████░░░░░░░░░░░░░░░░░░░░   21.51% 
 🌆 Daytime    113 commits    █████░░░░░░░░░░░░░░░░░░░░   20.25% 
-🌃 Evening    149 commits    ██████░░░░░░░░░░░░░░░░░░░   26.7% 
+🌃 Evening    150 commits    ██████░░░░░░░░░░░░░░░░░░░   26.88% 
 🌙 Night      175 commits    ███████░░░░░░░░░░░░░░░░░░   31.36%
 
 ```
@@ -70,10 +68,10 @@ GitHub profile. Here are some ideas to get you started:
 ```text
 Monday       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
 Tuesday      83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
-Wednesday    99 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.74% 
+Wednesday    98 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.56% 
 Thursday     117 commits    █████░░░░░░░░░░░░░░░░░░░░   20.97% 
 Friday       117 commits    █████░░░░░░░░░░░░░░░░░░░░   20.97% 
-Saturday     92 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.49% 
+Saturday     93 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
 Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.08%
 
 ```
@@ -116,7 +114,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/01/2022 04:44:26 UTC
+ Last Updated on 30/01/2022 05:08:27 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
