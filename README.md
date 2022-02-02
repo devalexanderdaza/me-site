@@ -38,6 +38,8 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2022%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
@@ -68,10 +70,10 @@ GitHub profile. Here are some ideas to get you started:
 ```text
 Monday       67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.01% 
 Tuesday      110 commits    █████░░░░░░░░░░░░░░░░░░░░   19.71% 
-Wednesday    81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.52% 
+Wednesday    82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.7% 
 Thursday     85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.23% 
 Friday       88 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.77% 
-Saturday     90 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.13% 
+Saturday     89 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.95% 
 Sunday       37 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.63%
 
 ```
@@ -83,7 +85,7 @@ Sunday       37 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-TypeScript               13 hrs 29 mins      ███████████████████░░░░░░   79.47% 
+TypeScript               13 hrs 30 mins      ███████████████████░░░░░░   79.47% 
 JavaScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
 .env file                36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
 Twig                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.07% 
@@ -114,7 +116,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/02/2022 05:08:36 UTC
+ Last Updated on 02/02/2022 05:37:18 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
