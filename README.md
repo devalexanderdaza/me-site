@@ -38,17 +38,15 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2022%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,390 Contributions in the Year 2022
+> 🏆 1,392 Contributions in the Year 2022
  > 
-> 📦 199.6 kB Used in GitHub's Storage 
+> 📦 199.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -61,8 +59,8 @@ GitHub profile. Here are some ideas to get you started:
 ```text
 🌞 Morning    126 commits    █████░░░░░░░░░░░░░░░░░░░░   22.58% 
 🌆 Daytime    107 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.18% 
-🌃 Evening    147 commits    ██████░░░░░░░░░░░░░░░░░░░   26.34% 
-🌙 Night      178 commits    ████████░░░░░░░░░░░░░░░░░   31.9%
+🌃 Evening    148 commits    ██████░░░░░░░░░░░░░░░░░░░   26.52% 
+🌙 Night      177 commits    ████████░░░░░░░░░░░░░░░░░   31.72%
 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -71,10 +69,10 @@ GitHub profile. Here are some ideas to get you started:
 Monday       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
 Tuesday      83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
 Wednesday    81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.52% 
-Thursday     109 commits    █████░░░░░░░░░░░░░░░░░░░░   19.53% 
+Thursday     108 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.35% 
 Friday       114 commits    █████░░░░░░░░░░░░░░░░░░░░   20.43% 
 Saturday     97 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.38% 
-Sunday       30 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.38%
+Sunday       31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 
 ```
 
@@ -116,7 +114,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/02/2022 04:45:08 UTC
+ Last Updated on 07/02/2022 05:08:38 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
