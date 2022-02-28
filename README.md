@@ -38,15 +38,17 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2022%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,958 Contributions in the Year 2022
+> 🏆 1,959 Contributions in the Year 2022
  > 
-> 📦 197.9 kB Used in GitHub's Storage 
+> 📦 198.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -57,19 +59,19 @@ GitHub profile. Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    121 commits    █████░░░░░░░░░░░░░░░░░░░░   21.68% 
+🌞 Morning    120 commits    █████░░░░░░░░░░░░░░░░░░░░   21.51% 
 🌆 Daytime    118 commits    █████░░░░░░░░░░░░░░░░░░░░   21.15% 
 🌃 Evening    142 commits    ██████░░░░░░░░░░░░░░░░░░░   25.45% 
-🌙 Night      177 commits    ████████░░░░░░░░░░░░░░░░░   31.72%
+🌙 Night      178 commits    ████████░░░░░░░░░░░░░░░░░   31.9%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
+Monday       45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.06% 
 Tuesday      83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
 Wednesday    81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.52% 
-Thursday     103 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.46% 
+Thursday     102 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.28% 
 Friday       111 commits    █████░░░░░░░░░░░░░░░░░░░░   19.89% 
 Saturday     98 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.56% 
 Sunday       38 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.81%
@@ -110,7 +112,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 28/02/2022 05:09:00 UTC
+ Last Updated on 28/02/2022 07:08:48 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
