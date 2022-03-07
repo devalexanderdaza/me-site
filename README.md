@@ -38,15 +38,13 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2022%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,146 Contributions in the Year 2022
+> 🏆 2,144 Contributions in the Year 2022
  > 
 > 📦 198.1 kB Used in GitHub's Storage 
  > 
@@ -59,9 +57,9 @@ GitHub profile. Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    119 commits    █████░░░░░░░░░░░░░░░░░░░░   21.33% 
+🌞 Morning    118 commits    █████░░░░░░░░░░░░░░░░░░░░   21.15% 
 🌆 Daytime    117 commits    █████░░░░░░░░░░░░░░░░░░░░   20.97% 
-🌃 Evening    146 commits    ██████░░░░░░░░░░░░░░░░░░░   26.16% 
+🌃 Evening    147 commits    ██████░░░░░░░░░░░░░░░░░░░   26.34% 
 🌙 Night      176 commits    ████████░░░░░░░░░░░░░░░░░   31.54%
 
 ```
@@ -71,10 +69,10 @@ GitHub profile. Here are some ideas to get you started:
 Monday       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.89% 
 Tuesday      83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
 Wednesday    81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.52% 
-Thursday     103 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.46% 
+Thursday     102 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.28% 
 Friday       116 commits    █████░░░░░░░░░░░░░░░░░░░░   20.79% 
 Saturday     98 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.56% 
-Sunday       33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.91%
+Sunday       34 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.09%
 
 ```
 
@@ -112,7 +110,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/03/2022 04:43:09 UTC
+ Last Updated on 07/03/2022 05:10:08 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
