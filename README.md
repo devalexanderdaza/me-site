@@ -38,13 +38,15 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2022%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,574 Contributions in the Year 2022
+> 🏆 2,577 Contributions in the Year 2022
  > 
 > 📦 199.2 kB Used in GitHub's Storage 
  > 
@@ -57,10 +59,10 @@ GitHub profile. Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    126 commits    █████░░░░░░░░░░░░░░░░░░░░   22.58% 
+🌞 Morning    125 commits    █████░░░░░░░░░░░░░░░░░░░░   22.4% 
 🌆 Daytime    114 commits    █████░░░░░░░░░░░░░░░░░░░░   20.43% 
 🌃 Evening    141 commits    ██████░░░░░░░░░░░░░░░░░░░   25.27% 
-🌙 Night      177 commits    ████████░░░░░░░░░░░░░░░░░   31.72%
+🌙 Night      178 commits    ████████░░░░░░░░░░░░░░░░░   31.9%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -68,10 +70,10 @@ GitHub profile. Here are some ideas to get you started:
 ```text
 Monday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
 Tuesday      105 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.82% 
-Wednesday    81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.52% 
+Wednesday    82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.7% 
 Thursday     85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.23% 
 Friday       88 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.77% 
-Saturday     93 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Saturday     92 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.49% 
 Sunday       34 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.09%
 
 ```
@@ -110,7 +112,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/03/2022 05:10:50 UTC
+ Last Updated on 23/03/2022 06:42:50 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
