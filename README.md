@@ -38,13 +38,15 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2040%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,858 Contributions in the Year 2022
+> 🏆 2,861 Contributions in the Year 2022
  > 
 > 📦 248.0 kB Used in GitHub's Storage 
  > 
@@ -58,21 +60,21 @@ GitHub profile. Here are some ideas to get you started:
 
 ```text
 🌞 Morning    124 commits    █████░░░░░░░░░░░░░░░░░░░░   21.87% 
-🌆 Daytime    114 commits    █████░░░░░░░░░░░░░░░░░░░░   20.11% 
+🌆 Daytime    113 commits    █████░░░░░░░░░░░░░░░░░░░░   19.93% 
 🌃 Evening    148 commits    ██████░░░░░░░░░░░░░░░░░░░   26.1% 
-🌙 Night      181 commits    ████████░░░░░░░░░░░░░░░░░   31.92%
+🌙 Night      182 commits    ████████░░░░░░░░░░░░░░░░░   32.1%
 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday       44 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.76% 
-Tuesday      91 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.05% 
+Tuesday      90 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.87% 
 Wednesday    110 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.4% 
 Thursday     105 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
 Friday       113 commits    █████░░░░░░░░░░░░░░░░░░░░   19.93% 
 Saturday     98 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.06%
+Sunday       7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23%
 
 ```
 
@@ -115,7 +117,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 03/04/2022 05:11:07 UTC
+ Last Updated on 03/04/2022 06:11:10 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
