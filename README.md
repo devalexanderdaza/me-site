@@ -38,8 +38,6 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2040%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
@@ -68,10 +66,10 @@ GitHub profile. Here are some ideas to get you started:
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
+Monday       61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.2% 
 Tuesday      80 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
 Wednesday    64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.85% 
-Thursday     49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.61% 
+Thursday     48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.39% 
 Friday       98 commits     █████░░░░░░░░░░░░░░░░░░░░   21.21% 
 Saturday     80 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.32% 
 Sunday       31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.71%
@@ -117,7 +115,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/04/2022 04:44:07 UTC
+ Last Updated on 05/04/2022 05:09:26 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
