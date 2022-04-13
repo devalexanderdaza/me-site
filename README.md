@@ -38,6 +38,8 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2050%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
@@ -68,10 +70,10 @@ GitHub profile. Here are some ideas to get you started:
 ```text
 Monday       67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.96% 
 Tuesday      127 commits    ██████░░░░░░░░░░░░░░░░░░░   26.46% 
-Wednesday    61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
+Wednesday    62 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.92% 
 Thursday     47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.79% 
 Friday       72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
-Saturday     75 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.62% 
+Saturday     74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.42% 
 Sunday       31 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.46%
 
 ```
@@ -110,7 +112,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/04/2022 05:09:38 UTC
+ Last Updated on 13/04/2022 05:39:06 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
