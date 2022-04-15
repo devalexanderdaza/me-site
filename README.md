@@ -16,10 +16,10 @@
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/devalexanderdaza/svelte-view-engine/pull/8) in [devalexanderdaza/svelte-view-engine](https://github.com/devalexanderdaza/svelte-view-engine)
-2. 💪 Opened PR [#4](https://github.com/developerplace/nodejs-express-safe-boilerplate/pull/4) in [developerplace/nodejs-express-safe-boilerplate](https://github.com/developerplace/nodejs-express-safe-boilerplate)
-3. 🎉 Merged PR [#3](https://github.com/developerplace/nodejs-express-safe-boilerplate/pull/3) in [developerplace/nodejs-express-safe-boilerplate](https://github.com/developerplace/nodejs-express-safe-boilerplate)
-4. 💪 Opened PR [#3](https://github.com/developerplace/nodejs-express-safe-boilerplate/pull/3) in [developerplace/nodejs-express-safe-boilerplate](https://github.com/developerplace/nodejs-express-safe-boilerplate)
+1. 💪 Opened PR [#74](https://github.com/salman0ansari/whatsapp-api-nodejs/pull/74) in [salman0ansari/whatsapp-api-nodejs](https://github.com/salman0ansari/whatsapp-api-nodejs)
+2. 💪 Opened PR [#73](https://github.com/salman0ansari/whatsapp-api-nodejs/pull/73) in [salman0ansari/whatsapp-api-nodejs](https://github.com/salman0ansari/whatsapp-api-nodejs)
+3. 🗣 Commented on [#71](https://github.com/salman0ansari/whatsapp-api-nodejs/issues/71) in [salman0ansari/whatsapp-api-nodejs](https://github.com/salman0ansari/whatsapp-api-nodejs)
+4. 🗣 Commented on [#72](https://github.com/salman0ansari/whatsapp-api-nodejs/issues/72) in [salman0ansari/whatsapp-api-nodejs](https://github.com/salman0ansari/whatsapp-api-nodejs)
 5. 🎉 Merged PR [#2](https://github.com/developerplace/nodejs-express-safe-boilerplate/pull/2) in [developerplace/nodejs-express-safe-boilerplate](https://github.com/developerplace/nodejs-express-safe-boilerplate)
 <!--END_SECTION:activity-->
 
