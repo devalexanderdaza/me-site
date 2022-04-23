@@ -38,15 +38,13 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2050%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3,367 Contributions in the Year 2022
+> 🏆 3,366 Contributions in the Year 2022
  > 
 > 📦 173.0 kB Used in GitHub's Storage 
  > 
@@ -59,9 +57,9 @@ GitHub profile. Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    92 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.78% 
+🌞 Morning    91 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.57% 
 🌆 Daytime    131 commits    ██████░░░░░░░░░░░░░░░░░░░   26.73% 
-🌃 Evening    130 commits    ██████░░░░░░░░░░░░░░░░░░░   26.53% 
+🌃 Evening    131 commits    ██████░░░░░░░░░░░░░░░░░░░   26.73% 
 🌙 Night      137 commits    ███████░░░░░░░░░░░░░░░░░░   27.96%
 
 ```
@@ -69,10 +67,10 @@ GitHub profile. Here are some ideas to get you started:
 
 ```text
 Monday       43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.78% 
-Tuesday      120 commits    ██████░░░░░░░░░░░░░░░░░░░   24.49% 
+Tuesday      119 commits    ██████░░░░░░░░░░░░░░░░░░░   24.29% 
 Wednesday    83 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.94% 
 Thursday     84 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
-Friday       102 commits    █████░░░░░░░░░░░░░░░░░░░░   20.82% 
+Friday       103 commits    █████░░░░░░░░░░░░░░░░░░░░   21.02% 
 Saturday     53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.82% 
 Sunday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
 
@@ -112,7 +110,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 23/04/2022 04:45:03 UTC
+ Last Updated on 23/04/2022 05:11:36 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
