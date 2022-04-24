@@ -38,13 +38,15 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-194%20hrs%2050%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3,406 Contributions in the Year 2022
+> 🏆 3,405 Contributions in the Year 2022
  > 
 > 📦 173.0 kB Used in GitHub's Storage 
  > 
@@ -59,8 +61,8 @@ GitHub profile. Here are some ideas to get you started:
 ```text
 🌞 Morning    88 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.96% 
 🌆 Daytime    127 commits    ██████░░░░░░░░░░░░░░░░░░░   25.92% 
-🌃 Evening    134 commits    ██████░░░░░░░░░░░░░░░░░░░   27.35% 
-🌙 Night      141 commits    ███████░░░░░░░░░░░░░░░░░░   28.78%
+🌃 Evening    133 commits    ██████░░░░░░░░░░░░░░░░░░░   27.14% 
+🌙 Night      142 commits    ███████░░░░░░░░░░░░░░░░░░   28.98%
 
 ```
 📅 **I'm Most Productive on Friday** 
@@ -68,11 +70,11 @@ GitHub profile. Here are some ideas to get you started:
 ```text
 Monday       43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.78% 
 Tuesday      100 commits    █████░░░░░░░░░░░░░░░░░░░░   20.41% 
-Wednesday    64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.06% 
+Wednesday    63 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
 Thursday     84 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
 Friday       103 commits    █████░░░░░░░░░░░░░░░░░░░░   21.02% 
 Saturday     91 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.57% 
-Sunday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
+Sunday       6 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22%
 
 ```
 
@@ -110,7 +112,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/04/2022 05:08:06 UTC
+ Last Updated on 24/04/2022 07:09:35 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
