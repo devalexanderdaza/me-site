@@ -38,13 +38,15 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-198%20hrs%2022%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 3,614 Contributions in the Year 2022
+> 🏆 3,613 Contributions in the Year 2022
  > 
 > 📦 173.2 kB Used in GitHub's Storage 
  > 
@@ -57,10 +59,10 @@ GitHub profile. Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    73 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.67% 
+🌞 Morning    72 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.41% 
 🌆 Daytime    75 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.18% 
 🌃 Evening    105 commits    ██████░░░░░░░░░░░░░░░░░░░   26.85% 
-🌙 Night      138 commits    ████████░░░░░░░░░░░░░░░░░   35.29%
+🌙 Night      139 commits    █████████░░░░░░░░░░░░░░░░   35.55%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -68,10 +70,10 @@ GitHub profile. Here are some ideas to get you started:
 ```text
 Monday       40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.23% 
 Tuesday      128 commits    ████████░░░░░░░░░░░░░░░░░   32.74% 
-Wednesday    46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Wednesday    47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.02% 
 Thursday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.53% 
 Friday       38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.72% 
-Saturday     55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
+Saturday     54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.81% 
 Sunday       35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.95%
 
 ```
@@ -83,13 +85,17 @@ Sunday       35 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               1 hr 35 mins        █████████████░░░░░░░░░░░░   53.65% 
+JSON                     31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.8% 
+Bash                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.22% 
+.env file                13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.76% 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.48%
 
 🔥 Editors: 
-No Activity Tracked This Week
+WebStorm                 2 hrs 57 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 57 mins       █████████████████████████   100.0%
 
 ```
 
@@ -110,7 +116,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/05/2022 05:10:12 UTC
+ Last Updated on 04/05/2022 05:40:20 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
