@@ -38,7 +38,7 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-253%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -46,7 +46,7 @@ GitHub profile. Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 4,562 Contributions in the Year 2022
+> 🏆 4,561 Contributions in the Year 2022
  > 
 > 📦 173.1 kB Used in GitHub's Storage 
  > 
@@ -59,8 +59,8 @@ GitHub profile. Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    93 commits     █████░░░░░░░░░░░░░░░░░░░░   22.74% 
-🌆 Daytime    73 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.85% 
+🌞 Morning    92 commits     █████░░░░░░░░░░░░░░░░░░░░   22.49% 
+🌆 Daytime    74 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.09% 
 🌃 Evening    108 commits    ██████░░░░░░░░░░░░░░░░░░░   26.41% 
 🌙 Night      135 commits    ████████░░░░░░░░░░░░░░░░░   33.01%
 
@@ -69,12 +69,12 @@ GitHub profile. Here are some ideas to get you started:
 
 ```text
 Monday       58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.18% 
-Tuesday      120 commits    ███████░░░░░░░░░░░░░░░░░░   29.34% 
+Tuesday      121 commits    ███████░░░░░░░░░░░░░░░░░░   29.58% 
 Wednesday    52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.71% 
 Thursday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.98% 
 Friday       45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.0% 
 Saturday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.98% 
-Sunday       36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.8%
+Sunday       35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.56%
 
 ```
 
@@ -116,7 +116,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/05/2022 17:11:56 UTC
+ Last Updated on 24/05/2022 17:44:08 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
