@@ -38,7 +38,7 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-297%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -69,12 +69,12 @@ GitHub profile. Here are some ideas to get you started:
 
 ```text
 Monday       60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.12% 
-Tuesday      140 commits    ████████░░░░░░░░░░░░░░░░░   32.94% 
+Tuesday      141 commits    ████████░░░░░░░░░░░░░░░░░   33.18% 
 Wednesday    52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
 Thursday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.53% 
 Friday       48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.29% 
 Saturday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.53% 
-Sunday       27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.35%
+Sunday       26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
 
 ```
 
@@ -116,7 +116,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 08/06/2022 04:45:51 UTC
+ Last Updated on 08/06/2022 05:08:26 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
