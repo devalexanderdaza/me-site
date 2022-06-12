@@ -40,45 +40,46 @@ GitHub profile. Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-orange)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5%20Million%20lines%20of%20code-blue)
 
-**📊 My GitHub data** 
+**🐱 My GitHub Data** 
 
-```text
-🏆 5,428 contributions in 2022
-
-📦 200.0 kB used in GitHub's storage 
-
-📜 13 Public Repositories 
-
-🔑 12 Private Repositories  
+> 🏆 5,434 Contributions in the Year 2022
  > 
-**I'm a night 🦉** 
+> 📦 200.0 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 12 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    86 commits     █████░░░░░░░░░░░░░░░░░░░░   20.19% 
 🌆 Daytime    80 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.78% 
-🌃 Evening    112 commits    ██████░░░░░░░░░░░░░░░░░░░   26.29% 
-🌙 Night      148 commits    ████████░░░░░░░░░░░░░░░░░   34.74%
+🌃 Evening    111 commits    ██████░░░░░░░░░░░░░░░░░░░   26.06% 
+🌙 Night      149 commits    ████████░░░░░░░░░░░░░░░░░   34.98%
 
 ```
-📅 **I'm most productive on Tuesday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday       14 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.29% 
 Tuesday      96 commits     █████░░░░░░░░░░░░░░░░░░░░   22.54% 
 Wednesday    52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.21% 
-Thursday     52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.21% 
+Thursday     51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.97% 
 Friday       94 commits     █████░░░░░░░░░░░░░░░░░░░░   22.07% 
 Saturday     95 commits     █████░░░░░░░░░░░░░░░░░░░░   22.3% 
-Sunday       23 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.4%
+Sunday       24 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.63%
 
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: America/Bogota
@@ -98,7 +99,7 @@ Mac                      45 hrs 55 mins      ███████████�
 
 ```
 
-**💻 I mostly code in TypeScript** 
+**I Mostly Code in TypeScript** 
 
 ```text
 TypeScript               11 repos            ███████████░░░░░░░░░░░░░░   44.0% 
@@ -115,7 +116,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 12/06/2022 08:10:10 UTC
+ Last Updated on 12/06/2022 08:41:19 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
