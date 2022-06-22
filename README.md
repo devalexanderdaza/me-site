@@ -38,7 +38,7 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,7 +46,7 @@ GitHub profile. Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 5,940 Contributions in the Year 2022
+> 🏆 5,939 Contributions in the Year 2022
  > 
 > 📦 226.8 kB Used in GitHub's Storage 
  > 
@@ -59,8 +59,8 @@ GitHub profile. Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    98 commits     █████░░░░░░░░░░░░░░░░░░░░   21.4% 
-🌆 Daytime    90 commits     █████░░░░░░░░░░░░░░░░░░░░   19.65% 
+🌞 Morning    97 commits     █████░░░░░░░░░░░░░░░░░░░░   21.18% 
+🌆 Daytime    91 commits     █████░░░░░░░░░░░░░░░░░░░░   19.87% 
 🌃 Evening    118 commits    ██████░░░░░░░░░░░░░░░░░░░   25.76% 
 🌙 Night      152 commits    ████████░░░░░░░░░░░░░░░░░   33.19%
 
@@ -68,9 +68,9 @@ GitHub profile. Here are some ideas to get you started:
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.48% 
+Monday       47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
 Tuesday      131 commits    ███████░░░░░░░░░░░░░░░░░░   28.6% 
-Wednesday    97 commits     █████░░░░░░░░░░░░░░░░░░░░   21.18% 
+Wednesday    98 commits     █████░░░░░░░░░░░░░░░░░░░░   21.4% 
 Thursday     65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.19% 
 Friday       50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.92% 
 Saturday     49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.7% 
@@ -116,7 +116,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/06/2022 22:22:32 UTC
+ Last Updated on 22/06/2022 22:47:17 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
