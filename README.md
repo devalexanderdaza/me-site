@@ -38,7 +38,7 @@ GitHub profile. Here are some ideas to get you started:
 ### Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-398%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -46,7 +46,7 @@ GitHub profile. Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 6,407 Contributions in the Year 2022
+> 🏆 6,406 Contributions in the Year 2022
  > 
 > 📦 224.3 kB Used in GitHub's Storage 
  > 
@@ -59,19 +59,19 @@ GitHub profile. Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    80 commits     █████░░░░░░░░░░░░░░░░░░░░   19.85% 
+🌞 Morning    79 commits     █████░░░░░░░░░░░░░░░░░░░░   19.6% 
 🌆 Daytime    83 commits     █████░░░░░░░░░░░░░░░░░░░░   20.6% 
 🌃 Evening    105 commits    ██████░░░░░░░░░░░░░░░░░░░   26.05% 
-🌙 Night      135 commits    ████████░░░░░░░░░░░░░░░░░   33.5%
+🌙 Night      136 commits    ████████░░░░░░░░░░░░░░░░░   33.75%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.43% 
+Monday       37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.18% 
 Tuesday      130 commits    ████████░░░░░░░░░░░░░░░░░   32.26% 
 Wednesday    84 commits     █████░░░░░░░░░░░░░░░░░░░░   20.84% 
-Thursday     51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
+Thursday     52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.9% 
 Friday       47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.66% 
 Saturday     49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.16% 
 Sunday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.99%
@@ -85,14 +85,13 @@ Sunday       4 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-JSON                     0 secs              █████████████████████░░░░   85.96% 
-JavaScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   14.04%
+No Activity Tracked This Week
 
 🔥 Editors: 
-WebStorm                 0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -113,7 +112,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 07/07/2022 05:29:46 UTC
+ Last Updated on 07/07/2022 05:48:22 UTC
 <!--END_SECTION:waka-->
 
 <p align="center">
