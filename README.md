@@ -46,7 +46,7 @@
 <p><a href="https://www.buymeacoffee.com/devalexanderdaza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devalexanderdaza" /></a><a href="https://ko-fi.com/devalexanderdaza"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="devalexanderdaza" /></a></p><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-457%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
@@ -54,7 +54,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 8,923 Contributions in the Year 2022
+> 🏆 8,929 Contributions in the Year 2022
  > 
 > 📦 238.3 kB Used in GitHub's Storage 
  > 
@@ -64,6 +64,49 @@
  > 
 > 🔑 13 Private Repositories  
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    80 commits     █████░░░░░░░░░░░░░░░░░░░░   22.66% 
+🌆 Daytime    79 commits     █████░░░░░░░░░░░░░░░░░░░░   22.38% 
+🌃 Evening    97 commits     ██████░░░░░░░░░░░░░░░░░░░   27.48% 
+🌙 Night      97 commits     ██████░░░░░░░░░░░░░░░░░░░   27.48%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.03% 
+Tuesday      130 commits    █████████░░░░░░░░░░░░░░░░   36.83% 
+Wednesday    34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.63% 
+Thursday     37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.48% 
+Friday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
+Saturday     22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.23% 
+Sunday       36 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.2%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Bogota
+
+💬 Programming Languages: 
+JSON                     14 mins             ██████████████░░░░░░░░░░░   58.91% 
+Other                    3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.36% 
+YAML                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   15.29% 
+TypeScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.91% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.25%
+
+🔥 Editors: 
+VS Code                  23 mins             █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      23 mins             █████████████████████████   100.0%
+
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -81,7 +124,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 05:55:28 UTC
+ Last Updated on 14/09/2022 07:00:26 UTC
 <!--END_SECTION:waka-->
 
 <p>
