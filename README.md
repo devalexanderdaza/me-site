@@ -46,7 +46,7 @@
 <p><a href="https://www.buymeacoffee.com/devalexanderdaza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devalexanderdaza" /></a><a href="https://ko-fi.com/devalexanderdaza"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="devalexanderdaza" /></a></p><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-455%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-48-blue)
 
@@ -56,7 +56,7 @@
 
 > 🏆 8,923 Contributions in the Year 2022
  > 
-> 📦 238.2 kB Used in GitHub's Storage 
+> 📦 238.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -64,45 +64,6 @@
  > 
 > 🔑 13 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    80 commits     █████░░░░░░░░░░░░░░░░░░░░   22.86% 
-🌆 Daytime    79 commits     █████░░░░░░░░░░░░░░░░░░░░   22.57% 
-🌃 Evening    96 commits     ██████░░░░░░░░░░░░░░░░░░░   27.43% 
-🌙 Night      95 commits     ██████░░░░░░░░░░░░░░░░░░░   27.14%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.14% 
-Tuesday      129 commits    █████████░░░░░░░░░░░░░░░░   36.86% 
-Wednesday    30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.57% 
-Thursday     37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.57% 
-Friday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
-Saturday     22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.29% 
-Sunday       38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.86%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Bogota
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -120,7 +81,7 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 14/09/2022 04:29:25 UTC
+ Last Updated on 14/09/2022 05:55:28 UTC
 <!--END_SECTION:waka-->
 
 <p>
