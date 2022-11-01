@@ -46,7 +46,7 @@
 <p><a href="https://www.buymeacoffee.com/devalexanderdaza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devalexanderdaza" /></a><a href="https://ko-fi.com/devalexanderdaza"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="devalexanderdaza" /></a></p><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-529%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-529%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -54,7 +54,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 10,513 Contributions in the Year 2022
+> 🏆 10,514 Contributions in the Year 2022
  > 
 > 📦 239.6 kB Used in GitHub's Storage 
  > 
@@ -69,18 +69,18 @@
 ```text
 🌞 Morning    59 commits     █████░░░░░░░░░░░░░░░░░░░░   19.87% 
 🌆 Daytime    80 commits     ██████░░░░░░░░░░░░░░░░░░░   26.94% 
-🌃 Evening    99 commits     ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌙 Night      59 commits     █████░░░░░░░░░░░░░░░░░░░░   19.87%
+🌃 Evening    98 commits     ████████░░░░░░░░░░░░░░░░░   33.0% 
+🌙 Night      60 commits     █████░░░░░░░░░░░░░░░░░░░░   20.2%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday       41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.8% 
-Tuesday      58 commits     █████░░░░░░░░░░░░░░░░░░░░   19.53% 
+Tuesday      59 commits     █████░░░░░░░░░░░░░░░░░░░░   19.87% 
 Wednesday    42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.14% 
 Thursday     59 commits     █████░░░░░░░░░░░░░░░░░░░░   19.87% 
-Friday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.7% 
+Friday       10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.37% 
 Saturday     49 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
 Sunday       37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.46%
 
@@ -93,13 +93,14 @@ Sunday       37 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-TypeScript               48 mins             █████████████████████████   100.0%
+TypeScript               1 hr 15 mins        █████████████████████████   99.63% 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.37%
 
 🔥 Editors: 
-VS Code                  48 mins             █████████████████████████   100.0%
+VS Code                  1 hr 15 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  48 mins             █████████████████████████   100.0%
+Windows                  1 hr 15 mins        █████████████████████████   100.0%
 
 ```
 
@@ -120,7 +121,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 01/11/2022 05:38:29 UTC
+ Last Updated on 01/11/2022 06:35:36 UTC
 <!--END_SECTION:waka-->
 
 <p>
