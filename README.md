@@ -46,7 +46,7 @@
 <p><a href="https://www.buymeacoffee.com/devalexanderdaza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devalexanderdaza" /></a><a href="https://ko-fi.com/devalexanderdaza"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="devalexanderdaza" /></a></p><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-660%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -67,8 +67,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    74 commits     █████░░░░░░░░░░░░░░░░░░░░   23.42% 
-🌆 Daytime    96 commits     ███████░░░░░░░░░░░░░░░░░░   30.38% 
+🌞 Morning    73 commits     █████░░░░░░░░░░░░░░░░░░░░   23.1% 
+🌆 Daytime    97 commits     ███████░░░░░░░░░░░░░░░░░░   30.7% 
 🌃 Evening    92 commits     ███████░░░░░░░░░░░░░░░░░░   29.11% 
 🌙 Night      54 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.09%
 
@@ -79,9 +79,9 @@
 Monday       5 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58% 
 Tuesday      38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.03% 
 Wednesday    46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.56% 
-Thursday     110 commits    ████████░░░░░░░░░░░░░░░░░   34.81% 
+Thursday     109 commits    ████████░░░░░░░░░░░░░░░░░   34.49% 
 Friday       67 commits     █████░░░░░░░░░░░░░░░░░░░░   21.2% 
-Saturday     46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.56% 
+Saturday     47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
 Sunday       4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27%
 
 ```
@@ -124,7 +124,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/charts/bar_graph.png) 
 
 
- Last Updated on 21/01/2023 17:41:33 UTC
+ Last Updated on 21/01/2023 18:23:57 UTC
 <!--END_SECTION:waka-->
 
 <p>
