@@ -46,7 +46,7 @@
 <p><a href="https://www.buymeacoffee.com/devalexanderdaza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devalexanderdaza" /></a><a href="https://ko-fi.com/devalexanderdaza"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="devalexanderdaza" /></a></p><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-696%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-697%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -56,7 +56,7 @@
 
 > 📦 245.8 kB Used in GitHub's Storage 
  > 
-> 🏆 4,637 Contributions in the Year 2023
+> 🏆 4,638 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -70,7 +70,7 @@
 🌞 Morning                5125 commits        ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
 🌆 Daytime                5544 commits        ███████░░░░░░░░░░░░░░░░░░   26.57 % 
 🌃 Evening                4306 commits        █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-🌙 Night                  5891 commits        ███████░░░░░░░░░░░░░░░░░░   28.23 % 
+🌙 Night                  5892 commits        ███████░░░░░░░░░░░░░░░░░░   28.24 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
@@ -80,7 +80,7 @@ Tuesday                  2960 commits        ████░░░░░░░�
 Wednesday                2926 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
 Thursday                 2930 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
 Friday                   3448 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Saturday                 3140 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
+Saturday                 3141 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 Sunday                   2754 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
 ```
 
@@ -91,13 +91,15 @@ Sunday                   2754 commits        ███░░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-PHP                      0 secs              █████████████████████████   100.00 % 
+PHP                      3 mins              ███████████████████░░░░░░   77.81 % 
+Other                    0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+Linux                    4 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,7 +119,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/assets/bar_graph.png)
 
 
- Last Updated on 15/04/2023 05:17:39 UTC
+ Last Updated on 15/04/2023 05:40:54 UTC
 <!--END_SECTION:waka-->
 
 <p>
