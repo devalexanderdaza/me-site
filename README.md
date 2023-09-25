@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alexander Daza 😎</h1>
 <h3 align="center">Sr. Full-stack web 🤓 and Ssr. Mobile developer 😜, Automation enthusiast 🥳, software architect 🥸, and offensive pentester ☠️. I am a digital craftsman 🤩, focused on extensible, expandable and maintainable results 🫡</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devalexanderdaza&label=Profile%20views&color=0e75b6&style=flat" alt="devalexanderdaza" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devalexanderdaza&label=Profile%20views&color=0e75b6&style=flat" alt="devalexanderdaza" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devalexanderdaza" alt="devalexanderdaza" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/devalexanderdaza"><img src="https://github-profile-trophy.vercel.app/?devalexanderdaza&theme=nord" alt="devalexanderdaza" /></a> </p>-->
 
-<p align="left"> <a href="https://twitter.com/devalexanderdaz" target="blank"><img src="https://img.shields.io/twitter/follow/devalexanderdaz?logo=twitter&style=for-the-badge" alt="devalexanderdaz" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/devalexanderdaz" target="blank"><img src="https://img.shields.io/twitter/follow/devalexanderdaz?logo=twitter&style=for-the-badge" alt="devalexanderdaz" /></a> </p>-->
 
 - 🔭 I’m currently working on [Validation Solutions SAS](https://www.validation.com.co)
 
