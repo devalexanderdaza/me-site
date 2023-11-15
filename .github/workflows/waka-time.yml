@@ -32,4 +32,4 @@ jobs:
           SHOW_SHORT_INFO: "True" # Muestra información resumida
           SHOW_LOC_CHART: "True" # Muestra un gráfico de líneas de código
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # Proporciona la clave de la API de WakaTime almacenada en secrets
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # Proporciona el token de acceso de GitHub almacenado en secrets
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Proporciona el token de acceso de GitHub almacenado en secrets
