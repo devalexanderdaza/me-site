@@ -137,11 +137,11 @@ HTML                     1 repo              █░░░░░░░░░░�
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/devalexanderdaza/imagine-apps-prueba/pull/1) in [devalexanderdaza/imagine-apps-prueba](https://github.com/devalexanderdaza/imagine-apps-prueba)
-2. 💪 Opened PR [#1](https://github.com/devalexanderdaza/imagine-apps-prueba/pull/1) in [devalexanderdaza/imagine-apps-prueba](https://github.com/devalexanderdaza/imagine-apps-prueba)
-3. 🎉 Merged PR [#17](https://github.com/devalexanderdaza/whatsappi/pull/17) in [devalexanderdaza/whatsappi](https://github.com/devalexanderdaza/whatsappi)
-4. 💪 Opened PR [#17](https://github.com/devalexanderdaza/whatsappi/pull/17) in [devalexanderdaza/whatsappi](https://github.com/devalexanderdaza/whatsappi)
-5. 🎉 Merged PR [#15](https://github.com/devalexanderdaza/whatsappi/pull/15) in [devalexanderdaza/whatsappi](https://github.com/devalexanderdaza/whatsappi)
+1. 🔒 Closed issue [#10](https://github.com/devalexanderdaza/multi-captcha-solver/issues/10) in [devalexanderdaza/multi-captcha-solver](https://github.com/devalexanderdaza/multi-captcha-solver)
+2. 🔒 Closed issue [#9](https://github.com/devalexanderdaza/multi-captcha-solver/issues/9) in [devalexanderdaza/multi-captcha-solver](https://github.com/devalexanderdaza/multi-captcha-solver)
+3. 🔒 Closed issue [#8](https://github.com/devalexanderdaza/multi-captcha-solver/issues/8) in [devalexanderdaza/multi-captcha-solver](https://github.com/devalexanderdaza/multi-captcha-solver)
+4. 🗣 Commented on [#8](https://github.com/devalexanderdaza/multi-captcha-solver/issues/8#issuecomment-1811423058) in [devalexanderdaza/multi-captcha-solver](https://github.com/devalexanderdaza/multi-captcha-solver)
+5. 🗣 Commented on [#8](https://github.com/devalexanderdaza/multi-captcha-solver/issues/8#issuecomment-1807321247) in [devalexanderdaza/multi-captcha-solver](https://github.com/devalexanderdaza/multi-captcha-solver)
 <!--END_SECTION:activity-->
 
 ---
