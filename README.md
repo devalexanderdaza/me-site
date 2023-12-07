@@ -46,8 +46,6 @@
 <p><a href="https://www.buymeacoffee.com/devalexanderdaza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devalexanderdaza" /></a><a href="https://ko-fi.com/devalexanderdaza"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="devalexanderdaza" /></a></p><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-964%20hrs%2012%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26.7%20million%20lines%20of%20code-blue)
@@ -56,7 +54,7 @@
 
 > 📦 194.1 kB Used in GitHub's Storage 
  > 
-> 🏆 12,023 Contributions in the Year 2023
+> 🏆 12,024 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -64,47 +62,6 @@
  > 
 > 🔑 12 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                6831 commits        ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-🌆 Daytime                7471 commits        ███████░░░░░░░░░░░░░░░░░░   27.51 % 
-🌃 Evening                5298 commits        █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
-🌙 Night                  7554 commits        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   3755 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Tuesday                  3923 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-Wednesday                3904 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Thursday                 3805 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Friday                   4061 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Saturday                 3893 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Sunday                   3813 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Bogota
-
-💬 Programming Languages: 
-TypeScript               27 hrs 30 mins      ████████████████████░░░░░   79.67 % 
-JSON                     2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Other                    1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-JavaScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
-Bash                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-
-🔥 Editors: 
-VS Code                  34 hrs 31 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      33 hrs 28 mins      ████████████████████████░   96.99 % 
-Linux                    1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -122,7 +79,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/assets/bar_graph.png)
 
 
- Last Updated on 03/12/2023 01:00:19 UTC
+ Last Updated on 07/12/2023 00:57:29 UTC
 <!--END_SECTION:waka-->
 
 <p>
