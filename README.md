@@ -46,17 +46,17 @@
 <p><a href="https://www.buymeacoffee.com/devalexanderdaza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devalexanderdaza" /></a><a href="https://ko-fi.com/devalexanderdaza"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="devalexanderdaza" /></a></p><br><br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-994%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C001%20hrs%2012%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.1%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 212.4 kB Used in GitHub's Storage 
+> 📦 220.7 kB Used in GitHub's Storage 
  > 
-> 🏆 78 Contributions in the Year 2024
+> 🏆 79 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -68,9 +68,9 @@
 
 ```text
 🌞 Morning                6834 commits        ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
-🌆 Daytime                7510 commits        ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-🌃 Evening                5393 commits        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-🌙 Night                  7585 commits        ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+🌆 Daytime                7512 commits        ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+🌃 Evening                5394 commits        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
+🌙 Night                  7589 commits        ███████░░░░░░░░░░░░░░░░░░   27.77 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
@@ -78,8 +78,8 @@
 Monday                   3787 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
 Tuesday                  3938 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
 Wednesday                3933 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Thursday                 3816 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.97 % 
-Friday                   4067 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Thursday                 3821 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
+Friday                   4069 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
 Saturday                 3933 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
 Sunday                   3848 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
 ```
@@ -91,17 +91,17 @@ Sunday                   3848 commits        ████░░░░░░░�
 🕑︎ Time Zone: America/Bogota
 
 💬 Programming Languages: 
-HTML                     8 hrs               ████████░░░░░░░░░░░░░░░░░   32.64 % 
-JavaScript               7 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   28.97 % 
-TypeScript               5 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-CSS                      2 hrs 29 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
-Other                    26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+TypeScript               17 hrs 18 mins      ██████████░░░░░░░░░░░░░░░   39.55 % 
+JavaScript               12 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   27.53 % 
+HTML                     9 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   21.38 % 
+CSS                      3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Other                    30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  43 hrs 45 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    24 hrs 31 mins      █████████████████████████   100.00 % 
+Linux                    43 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -121,7 +121,7 @@ PHP                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/assets/bar_graph.png)
 
 
- Last Updated on 09/02/2024 00:52:08 UTC
+ Last Updated on 10/02/2024 00:52:13 UTC
 <!--END_SECTION:waka-->
 
 <p>
