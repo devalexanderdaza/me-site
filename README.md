@@ -46,15 +46,15 @@
 <p><a href="https://www.buymeacoffee.com/devalexanderdaza"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="devalexanderdaza" /></a><a href="https://ko-fi.com/devalexanderdaza"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="devalexanderdaza" /></a></p><br><br>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C222%20hrs%2055%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-27.9%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 233.0 kB Used in GitHub's Storage 
- > 
-> 🏆 288 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -67,8 +67,8 @@
 ```text
 🌞 Morning                6876 commits        ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
 🌆 Daytime                7516 commits        ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-🌃 Evening                5575 commits        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
-🌙 Night                  7648 commits        ███████░░░░░░░░░░░░░░░░░░   27.70 % 
+🌃 Evening                5576 commits        █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
+🌙 Night                  7648 commits        ███████░░░░░░░░░░░░░░░░░░   27.69 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
@@ -78,7 +78,7 @@ Tuesday                  4009 commits        ████░░░░░░░�
 Wednesday                3968 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
 Thursday                 3889 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
 Friday                   4098 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Saturday                 3959 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Saturday                 3960 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
 Sunday                   3873 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
 ```
 
@@ -120,7 +120,7 @@ Java                     3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/devalexanderdaza/devalexanderdaza/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2024 01:06:26 UTC
+ Last Updated on 29/07/2024 01:05:12 UTC
 <!--END_SECTION:waka-->
 
 <p>
