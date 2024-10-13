@@ -134,7 +134,7 @@ Java                     3 repos             █░░░░░░░░░░�
 ### ⚡ Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/developerplace/node-module-typescript-template/pull/7) in [developerplace/node-module-typescript-template](https://github.com/developerplace/node-module-typescript-template)
+1. 💪 Opened PR [#81](https://github.com/piyush-kacha/nestjs-starter-kit/pull/81) in [piyush-kacha/nestjs-starter-kit](https://github.com/piyush-kacha/nestjs-starter-kit)
 2. 💪 Opened PR [#7](https://github.com/developerplace/node-module-typescript-template/pull/7) in [developerplace/node-module-typescript-template](https://github.com/developerplace/node-module-typescript-template)
 3. 🎉 Merged PR [#6](https://github.com/developerplace/node-module-typescript-template/pull/6) in [developerplace/node-module-typescript-template](https://github.com/developerplace/node-module-typescript-template)
 4. 💪 Opened PR [#6](https://github.com/developerplace/node-module-typescript-template/pull/6) in [developerplace/node-module-typescript-template](https://github.com/developerplace/node-module-typescript-template)
